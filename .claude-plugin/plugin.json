@@ -1,0 +1,9 @@
+{
+  "name": "se-planet-terrain",
+  "version": "0.1.0",
+  "description": "Edit Space Engineers planet heightmaps from in-game GPS points: flatten, raise/lower, sloped planes, smoothing, undo. Uses the game's own cube-face mapping, with a cheap sub-agent for iterative edits.",
+  "author": { "name": "Villanor" },
+  "repository": "https://github.com/VillanorSE/se-planet-terrain",
+  "license": "MIT",
+  "keywords": ["space-engineers", "planet", "heightmap", "terrain", "modding"]
+}

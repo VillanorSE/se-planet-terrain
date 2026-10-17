@@ -1,0 +1,11 @@
+{
+  "name": "se-planet-terrain",
+  "owner": { "name": "Villanor" },
+  "plugins": [
+    {
+      "name": "se-planet-terrain",
+      "source": "./",
+      "description": "Edit Space Engineers planet heightmaps from in-game GPS points."
+    }
+  ]
+}
